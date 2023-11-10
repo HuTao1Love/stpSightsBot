@@ -1,0 +1,6 @@
+MAIN_MENU = "main_menu"
+MAIN_MENU_START_SELECTING_BY_LOCATION_TYPE = "main_to_select_by_location_type"
+MAIN_MENU_START_CREATING_LOCATION_TYPE = "main_to_create_location_type"
+CREATE_LOCATION_TYPE = "create_location_type"
+CREATE_LOCATION = "create_location"
+QUEST_WITH_LOCATION = "quest_location"
